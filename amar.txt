@@ -1,2 +1,0 @@
-#creation du fichier amar.txt
-#ceci est un exemple pour apprendre GIT
